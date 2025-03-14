@@ -1,0 +1,22 @@
+{
+  "name": "md2evt",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "md2evt": "./index.js"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "Asai Toshiya <to.asai.60@gmail.com> (https://asaitoshiya.com/)",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "dependencies": {
+    "gray-matter": "^4.0.3",
+    "nostr-tools": "^2.10.4"
+  }
+}
