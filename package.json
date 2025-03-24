@@ -1,7 +1,7 @@
 {
   "name": "md2evt",
   "version": "0.1.0",
-  "description": "",
+  "description": "Convert markdown to event JSON of NIP-23 Long-form Content for Nostr",
   "main": "index.js",
   "bin": {
     "md2evt": "./index.js"
