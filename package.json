@@ -11,7 +11,7 @@
   },
   "keywords": [],
   "author": "Asai Toshiya <to.asai.60@gmail.com> (https://asaitoshiya.com/)",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "jest": "^29.7.0"
   },
