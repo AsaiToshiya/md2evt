@@ -17,6 +17,6 @@
   },
   "dependencies": {
     "gray-matter": "^4.0.3",
-    "nostr-tools": "^2.10.4"
+    "nostr-tools": "^2.11.0"
   }
 }
