@@ -1,6 +1,6 @@
 # md2evt
 
-md2evt is to convert markdown to event JSON of NIP-23 Long-form Content for Nostr.
+md2evt is to convert markdown to event JSON of NIP-23 Long-form Content for [Nostr](https://github.com/nostr-protocol/nostr).
 
 ## Usage
 
